@@ -1,0 +1,8 @@
+.excelapp_env
+_pycache_
+*.pyc
+.env
+*.log
+
+outputs/*
+outputs/.gitkeep
