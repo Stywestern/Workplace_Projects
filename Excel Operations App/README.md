@@ -2,7 +2,7 @@
 
 A modular Python desktop application designed to streamline data operations on Excel files. This tool provides a modern graphical interface for comparing datasets, detecting anomalies, and merging multiple data sources.
 
-## 🚀 Key Features
+## Key Features
 
 The application is divided into specialized services:
 
@@ -25,7 +25,7 @@ The application is divided into specialized services:
     * Merges multiple Excel files (or specific sheets) into a single master file.
     * Aligns data based on a user-selected key column.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Python 3.10+
 * **GUI Framework:** CustomTkinter
@@ -33,7 +33,7 @@ The application is divided into specialized services:
 * **Visualization:** Matplotlib
 * **Reporting:** Jinja2 (HTML Generation)
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 1.  **Clone the repository**
     ```bash
@@ -46,7 +46,7 @@ The application is divided into specialized services:
     pip install -r requirements.txt
     ```
 
-## ▶️ Usage
+## Usage
 
 1.  Ensure your virtual environment is activated.
 2.  Run the main application entry point:
@@ -57,7 +57,7 @@ The application is divided into specialized services:
 4.  Follow the on-screen instructions to select your Input files.
 5.  **Outputs:** All generated reports, merged files, and plots are automatically saved to the `outputs/` directory.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── main.py                     # Application Entry Point
